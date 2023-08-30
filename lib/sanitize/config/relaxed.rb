@@ -500,6 +500,7 @@ class Sanitize
           grid-column
           grid-column-end
           grid-column-start
+          grid-gap
           grid-row
           grid-row-end
           grid-row-start
